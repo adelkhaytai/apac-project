@@ -1,0 +1,26 @@
+here’s a more detailed approach for both backend and frontend steps:
+
+Backend Improvements:
+Install Necessary Packages:
+-express: For handling routes and middleware.
+-mongoose: To interact with MongoDB.
+-dotenv: For environment variables.
+-cors: To handle cross-origin requests.
+-bcryptjs: For hashing passwords (if needed).
+-jsonwebtoken: For authentication using tokens.
+-nodemon: For auto-reloading the server during development.
+Server Setup with .env
+Create Routes, Controllers, and Middleware
+Test API with Insomnia
+
+Frontend Improvements:
+Create React App and Folder Structure Install and create a React app
+State Management with Redux Toolkit
+Clean API Integration with Redux Toolkit
+User & Admin Components for Events
+Display Event List on Home Page
+
+
+This approach improves the structure of both the backend and frontend, leveraging proper package usage, clear API management with Redux Toolkit, and a clean folder structure for scalability
+
+
